@@ -1,1 +1,2 @@
-# project-in-class
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
